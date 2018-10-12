@@ -1,2 +1,2 @@
 # codefundo_gauravkungwani
-An app in which blood group of people will be saved and in case of emergency the app will search the nearest people in that area having the required blood group and willing to donate.
+An app in which blood group of people will be saved and in case of emergency the app will search the nearest people in that area having the required blood group and willing to donate.The app will also have invitation feature to invite people to donate blood to the nearest or ongoing blood donating camp.The app will also give reward on the basis of number of times blood donated.That rewards may be used somewhere else.
